@@ -16,8 +16,6 @@ import java.sql.Statement;
  *
  * NOTE: Whenever you execute a DELETE statement, have a WHERE condition that identifies exactly what records you would
  * like to delete. Leaving this out will remove ALL records from the table.
- *
- * Additional resource: https://www.w3schools.com/sql/sql_delete.asp
  */
 public class DeleteRecords {
 
